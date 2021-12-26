@@ -1,0 +1,19 @@
+{
+  "name": "react-node-apollo-test",
+  "version": "1.0.0",
+  "description": "an test app using react, node and apollo",
+  "main": "index.js",
+  "author": "Hillel",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "axios": "^0.24.0",
+    "graphql": "^16.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
